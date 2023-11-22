@@ -45,7 +45,7 @@ Recognized for academic excellence as a Dean's Honor List recipient at Californi
 
 I am enthusiastic about contributing my skills and knowledge to innovative software engineering projects and eager to explore new opportunities in the field.
 
- <a href="[https://www.python.org/](https://www.linkedin.com/in/ravencunanan/)">
+ <a href="(https://www.linkedin.com/in/ravencunanan/)">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn" width="50" height="50" style="margin-right: 50px;" />
  </a>
 
