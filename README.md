@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Raven Cunanan
+Raven Cunanan |
+
 Aspiring Software Engineer |
 Phone: (707) 334-3872 | Email: raven.e.cunanan@gmail.com
 
