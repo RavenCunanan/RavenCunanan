@@ -30,7 +30,7 @@ I am enthusiastic about contributing my skills and knowledge to innovative softw
 
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50" style="margin-right: 50px;" />
-  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30" style="margin-right: 20px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50" style="margin-right: 50px;" />
   <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="30" height="30" style="margin-right: 20px;" />
 </p>
 
