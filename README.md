@@ -2,7 +2,7 @@
 
 **Raven Cunanan**
 
-He/Him
+<small>He/Him</small>
 
 Aspiring Software Engineer 
 
