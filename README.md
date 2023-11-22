@@ -28,8 +28,11 @@ Recognized for academic excellence as a Dean's Honor List recipient at Californi
 
 I am enthusiastic about contributing my skills and knowledge to innovative software engineering projects and eager to explore new opportunities in the field.
 
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30" />
-<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="30" height="30" />
+<p float="left">
+  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30" style="margin-right: 20px;" />
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="30" height="30" style="margin-right: 20px;" />
+</p>
+
 
 
 <!--
