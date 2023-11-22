@@ -49,6 +49,8 @@ I am enthusiastic about contributing my skills and knowledge to innovative softw
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn" width="50" height="50" style="margin-right: 50px;" />
  </a>
 
+
+<!---
  <details>
   <summary>Click to Expand Section</summary>
   
