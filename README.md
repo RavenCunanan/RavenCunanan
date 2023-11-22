@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Raven Cunanan
-Aspiring Software Engineer | GitHub: RavenCunanan
+Aspiring Software Engineer |
 Phone: (707) 334-3872 | Email: raven.e.cunanan@gmail.com
 
 About Me
