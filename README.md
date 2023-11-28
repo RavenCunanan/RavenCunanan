@@ -6,9 +6,6 @@
 
 Email: raven.e.cunanan@gmail.com
 
-[Raven's Github Stats](https://github-readme-stats.vercel.app/api?username=RavenCunanan&show_icons=true&theme=dark)
-
-
 **About Me**
 
 Welcome to my portfolio! I am Raven Cunanan, a recent graduate with a Bachelor of Sciences in Computer Science from California State University Sacramento. Passionate about technology and innovation, I aspire to build a career in the dynamic and ever-evolving field of Software Engineering.
