@@ -2,7 +2,7 @@
 
 **Raven Cunanan**
 
-`Aspiring Software Engineer`
+`Software Engineer`
 
 Email: raven.e.cunanan@gmail.com
 
