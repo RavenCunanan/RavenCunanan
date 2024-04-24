@@ -45,6 +45,8 @@ Recognized for academic excellence as a Dean's Honor List recipient at Californi
 
 I am enthusiastic about contributing my skills and knowledge to innovative software engineering projects and eager to explore new opportunities in the field.
 
+[![Raven's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavenCunanan)](https://github.com/anuraghazra/github-readme-stats)
+
  <a href="https://www.linkedin.com/in/ravencunanan/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn" width="50" height="50" style="margin-right: 50px;" />
  </a>
