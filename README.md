@@ -41,7 +41,7 @@ In my recent freelance role as an AI Trainer at Remotasks, I contributed to trai
 
 **Awards and Certifications**
 
-Recognized for academic excellence as a Dean's Honor List recipient at California State University Sacramento. Additionally, I completed IBM's Applied Software Engineering Fundamentals Specialization on Coursera, further enriching my knowledge base.
+Recognized for academic excellence as a Dean's Honor List recipient at California State University Sacramento. Additionally, I completed IBM's Applied Software Engineering Fundamentals Specialization on Coursera.
 
 I am enthusiastic about contributing my skills and knowledge to innovative software engineering projects and eager to explore new opportunities in the field.
 
