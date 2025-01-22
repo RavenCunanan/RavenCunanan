@@ -43,6 +43,8 @@ In my recent freelance role as an AI Trainer at Remotasks, I contributed to trai
 
 Recognized for academic excellence as a Dean's Honor List recipient at California State University Sacramento. Additionally, I completed IBM's Applied Software Engineering Fundamentals Specialization on Coursera.
 
+I also completed the JP Morgan Software Engineering Job Simulation, where I gained hands-on experience in financial technology, developed technical solutions for data visualization, and enhanced communication skills by delivering progress updates to stakeholders. This experience further strengthened my skills in JavaScript and Agile workflows.
+
 I am enthusiastic about contributing my skills and knowledge to innovative software engineering projects and eager to explore new opportunities in the field.
 
 [![Raven's GitHub stats](https://github-readme-stats.vercel.app/api?username=RavenCunanan&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
