@@ -47,7 +47,7 @@ I also completed the JP Morgan Software Engineering Job Simulation, where I gain
 
 I am enthusiastic about contributing my skills and knowledge to innovative software engineering projects and eager to explore new opportunities in the field.
 
-[![Ravens's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=RavenCunanan)](https://github.com/pranesh-2005/github-readme-stats-fast&theme=dark)
+[![Ravens's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=RavenCunanan)](https://github.com/pranesh-2005/github-readme-stats-fast&theme=transparent)
 
  <a href="https://www.linkedin.com/in/ravencunanan/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="My LinkedIn" width="50" height="50" style="margin-right: 50px;" />
